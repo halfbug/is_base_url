@@ -1,0 +1,25 @@
+{
+  "name": "@halfbug/is_base_url",
+  "version": "1.0.1",
+  "description": "check the base url",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halfbug/is_base_url.git"
+  },
+  "keywords": [
+    "check",
+    "baseUrl",
+    "base",
+    "url"
+  ],
+  "author": "sadaf siddiqui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/halfbug/is_base_url/issues"
+  },
+  "homepage": "https://github.com/halfbug/is_base_url#readme"
+}

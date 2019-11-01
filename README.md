@@ -1,0 +1,1 @@
+use to check the if the call is form localhost or form live domain.
